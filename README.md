@@ -66,6 +66,10 @@ You can view the full design here:
 https://www.figma.com/design/BgwqyGrm0qS8G4o5Jawg6D/Re-Lance-Project?node-id=0-1&p=f&t=bPIRtHeuZfxorMF2-0
 
 ---
+## Drive File
+
+ https://drive.google.com/drive/folders/1AbYFIvtVErVle7Ks5JV8d8w53xKRIU1N
+---
 
 ## 👤 About Me
 
